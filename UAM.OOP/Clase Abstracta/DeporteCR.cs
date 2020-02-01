@@ -15,7 +15,7 @@ namespace UAM.OOP
 
 		public override void Futbol()
 		{
-			Console.WriteLine("DeporteCR-> FIFA");
+			Console.WriteLine("DeporteCRRR-> FIFA");
 		}
 	}
 }
