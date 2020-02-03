@@ -10,38 +10,71 @@ namespace UAM.OOP
 	{
 		public static void Main(string[] args)
 		{
-			//Persona persona = new Persona();
-			//int telefono = 88221672;
-			//persona.Telefono = telefono;
-			//int telefono2 = persona.Telefono;
+            //Persona persona = new Persona();
+            //int telefono = 88221672;
+            //persona.Telefono = telefono;
+            //int telefono2 = persona.Telefono;
 
-			//int id = persona.Identificacion;
-			////persona.Identificacion = 12324;
+            //int id = persona.Identificacion;
+            ////persona.Identificacion = 12324;
 
-			//persona._correo = "@";
+            //persona._correo = "@";
 
-			//Estudiante estudiante = new Estudiante();
-			//Persona persona1 = new Estudiante();
-			//persona1.Telefono = 1;
+            //Estudiante estudiante = new Estudiante();
+            //Persona persona1 = new Estudiante();
+            //persona1.Telefono = 1;
 
-			PersonaDeportesCAbst personaDeportesC = new DeporteCR();
+            //PersonaDeportesCAbst personaDeportesC = new DeporteCR();
 
-			DeporteCR deporteCR = new DeporteCR();
-			DeporteUSA deporteUSA = new DeporteUSA();
+            //DeporteCR deporteCR = new DeporteCR();
+            //DeporteUSA deporteUSA = new DeporteUSA();
 
-			deporteCR.Basket();
-			deporteUSA.Basket();
+            //deporteCR.Basket();
+            //deporteUSA.Basket();
 
-			deporteCR.Futbol();
-			deporteUSA.Futbol();
+            //deporteCR.Futbol();
+            //deporteUSA.Futbol();
 
-			deporteCR.Tennis();
-			deporteUSA.Tennis();
+            //deporteCR.Tennis();
+            //deporteUSA.Tennis();
 
-			deporteCR.BaseBall();
-			deporteUSA.BaseBall();
+            //deporteCR.BaseBall();
+            //deporteUSA.BaseBall();
 
-			Console.ReadKey();
-		}
+            //Console.ReadKey();
+
+            MyGenericClass<int> myGenericClass = new MyGenericClass<int>(1);
+
+            myGenericClass.genericMethod(4234);
+
+
+            MyGenericClass<String> myGenericClassString = new MyGenericClass<String>("Valor al atributo");
+
+            myGenericClassString.genericMethod("Valor al parametro");
+
+            Console.ReadKey();
+
+
+            colecciones colecciones = new colecciones();
+
+            colecciones.ListaString();
+
+            Console.ReadKey();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        }
 	}
 }
