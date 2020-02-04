@@ -19,10 +19,10 @@ namespace UAM.OOP
             salmons.Add("coho");
             salmons.Add("pink");
             salmons.Add("sockeye");
-            salmons.Add("chinook");
+        
 
             // Iterate through the list.
-            Imprimir(salmons);
+            //Imprimir(salmons);
             // Output: chinook coho pink sockeye
 
             foreach (var salmon in salmons)
