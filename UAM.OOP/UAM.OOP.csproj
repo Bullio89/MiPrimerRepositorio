@@ -58,12 +58,16 @@
     <Compile Include="Inteface\IMutanteAcciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tarea\lista.cs" />
+    <Compile Include="Tarea\DVD.cs" />
+    <Compile Include="Tarea\Icrud.cs" />
+    <Compile Include="Tarea\Netflix.cs" />
+    <Compile Include="Tarea\reproductores.cs" />
+    <Compile Include="Tarea\VHS.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Tarea\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
