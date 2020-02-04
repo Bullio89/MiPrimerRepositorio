@@ -43,16 +43,16 @@ namespace UAM.OOP
 
             //Console.ReadKey();
 
-            MyGenericClass<int> myGenericClass = new MyGenericClass<int>(1);
+            //MyGenericClass<int> myGenericClass = new MyGenericClass<int>(1);
 
-            myGenericClass.genericMethod(4234);
+            //myGenericClass.genericMethod(4234);
 
 
-            MyGenericClass<String> myGenericClassString = new MyGenericClass<String>("Valor al atributo");
+            //MyGenericClass<String> myGenericClassString = new MyGenericClass<String>("Valor al atributo");
 
-            myGenericClassString.genericMethod("Valor al parametro");
+            //myGenericClassString.genericMethod("Valor al parametro");
 
-            Console.ReadKey();
+            //Console.ReadKey();
 
 
             colecciones colecciones = new colecciones();

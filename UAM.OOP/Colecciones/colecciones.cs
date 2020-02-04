@@ -9,10 +9,10 @@ namespace UAM.OOP
     public class colecciones
     {
 
-        public void ListaString<T>()
+        public void ListaString()
         {
             // Create a list of strings.
-            var salmons = new List<T>();
+            var salmons = new List<String>();
 
 
             salmons.Add("chinook");
@@ -24,6 +24,15 @@ namespace UAM.OOP
             // Iterate through the list.
             Imprimir(salmons);
             // Output: chinook coho pink sockeye
+
+            foreach (var salmon in salmons)
+
+            {
+                Console.WriteLine(salmon + " ");
+
+            }
+
+            Console.WriteLine("Remove");
 
             salmons.Remove("coho");
 
