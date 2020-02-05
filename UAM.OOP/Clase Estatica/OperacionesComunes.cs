@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace UAM.OOP
 {
-	public static class OperacionesOperacionesComunes
+	public static class OperacionesComunes
 	{
-		static int _numero1;
-		static int _numero2;
+		public static int _numero1;
+		public static int _numero2;
 
 		public static int Sumar(int n1, int n2) {
 			return n1 + n2;

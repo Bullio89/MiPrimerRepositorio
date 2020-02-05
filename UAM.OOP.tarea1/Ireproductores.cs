@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace UAM.OOP
 {
-    public interface Icrud<T>
+    public interface Ireproductores
     {
 
-        void insertar(T Icrud);
 
-        void Eliminar(int indice);
 
-        T buscar(int indice);
+
 
     }
 }

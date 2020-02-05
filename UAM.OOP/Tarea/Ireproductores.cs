@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UAM.OOP
 {
-    interface reproductores
+    public interface Ireproductores
 
     {
 

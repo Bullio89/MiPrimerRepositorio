@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UAM.OOP
 {
-    public class VHS : reproductores
+    public class VHS : Ireproductores
     {
 
         private int id;
@@ -27,22 +27,22 @@ namespace UAM.OOP
 
         public void forward()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("forward");
         }
 
         public void play()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("play");
         }
 
         public void rewind()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("rewind");
         }
 
         public void stop()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("stop");
         }
     }
 }

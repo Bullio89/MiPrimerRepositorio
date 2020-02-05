@@ -37,6 +37,13 @@ namespace UAM.OOP.Clases_simple
 			_sede = sede;
 		}
 
+        public void llamar() {//para comprobar que la clase estatica se accede sin necesidad de instancia
+
+            OperacionesComunes._numero1 = 2;
+
+
+        }
+
 		#endregion
 	}
 }
