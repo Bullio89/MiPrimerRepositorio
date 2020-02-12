@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UAM.OOP.Inteface
+namespace UAM.OOP.Inteface//tambien llamado contrato 
 {
 	public class Gente : IAccionesPersona, IMutanteAcciones
 	{

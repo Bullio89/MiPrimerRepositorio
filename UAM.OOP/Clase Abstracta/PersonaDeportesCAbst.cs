@@ -9,7 +9,7 @@ namespace UAM.OOP
 	public abstract class PersonaDeportesCAbst
 	{
 
-		public abstract void Futbol();
+		public abstract void Futbol();//implementa por fuerza
 
 		public abstract void Basket();
 

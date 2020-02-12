@@ -61,46 +61,54 @@ namespace UAM.OOP
 
             //Console.ReadKey();
 
-            Ireproductores reproductor = new VHS();//interfaz se puede comportar como cualquiera de sus hijos yb ella no se puede instanciar por si misma, de esta manera se hace polimorfismo
+            //Ireproductores reproductor = new VHS();//interfaz se puede comportar como cualquiera de sus hijos yb ella no se puede instanciar por si misma, de esta manera se hace polimorfismo
 
-            lista ejemplo = new lista();
+            //lista ejemplo = new lista();
 
-            VHS vHS = new VHS(1, "VHS");
+            //VHS vHS = new VHS(1, "VHS");
 
-            ejemplo.insertar(vHS);
-            ejemplo.insertar(new DVD(1, "DVD"));
-            ejemplo.insertar(new Netflix() { Id = 3, Nombre = "Netlix" });
+            //ejemplo.insertar(vHS);
+            //ejemplo.insertar(new DVD(1, "DVD"));
+            //ejemplo.insertar(new Netflix() { Id = 3, Nombre = "Netlix" });
             //Console.ReadKey();
 
-            var item = ejemplo.buscar(0);
+            //var item = ejemplo.buscar(0);
 
-            if (item is DVD)
-            {
+            //if (item is DVD)
+            //{
 
-                Console.WriteLine(((DVD)item).Id);
+            //    Console.WriteLine(((DVD)item).Id);
 
-            }
-            else
-            {
-                if (item is VHS)
-                {
+            //}
+            //else
+            //{
+            //    if (item is VHS)
+            //    {
 
-                    Console.WriteLine(((VHS)item).Id);
+            //        Console.WriteLine(((VHS)item).Id);
 
-                }
-                else
-                {
-                    if (item is Netflix)
-                    {
+            //    }
+            //    else
+            //    {
+            //        if (item is Netflix)
+            //        {
 
-                        Console.WriteLine(((Netflix)item).Id);
-                    }
-                }
+            //            Console.WriteLine(((Netflix)item).Id);
+            //        }
+            //    }
 
 
-            }
+            //}
 
+            //Console.ReadKey();
+
+            ClaseString claseString = new ClaseString();
+            Console.WriteLine(claseString.division("Carlos", "Sanchez"));
+            Console.WriteLine(claseString.Suma("Carlos", "Sanchez"));
             Console.ReadKey();
+
+
+
 
 
         }

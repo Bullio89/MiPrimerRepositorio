@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>UAM.OOP.Program</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -51,7 +54,11 @@
     <Compile Include="Clases Simples\Persona.cs" />
     <Compile Include="Clases Simples\Profesor.cs" />
     <Compile Include="Colecciones\colecciones.cs" />
+    <Compile Include="Generics\ClaseBooleana.cs" />
+    <Compile Include="Generics\ClaseString.cs" />
+    <Compile Include="Generics\IpruebaGenerica.cs" />
     <Compile Include="Generics\MyGenericClass.cs" />
+    <Compile Include="Generics\claseInt.cs" />
     <Compile Include="Inteface\Gente.cs" />
     <Compile Include="Inteface\IAcciones.cs" />
     <Compile Include="Clase Abstracta\PersonaDeportesCAbst.cs" />
