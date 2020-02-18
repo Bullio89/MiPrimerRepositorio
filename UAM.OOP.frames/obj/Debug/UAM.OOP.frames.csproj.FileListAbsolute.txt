@@ -1,0 +1,10 @@
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\bin\Debug\UAM.OOP.frames.exe.config
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\bin\Debug\UAM.OOP.frames.exe
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\bin\Debug\UAM.OOP.frames.pdb
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.csprojAssemblyReference.cache
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.Form1.resources
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.Properties.Resources.resources
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.csproj.GenerateResource.cache
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.csproj.CoreCompileInputs.cache
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.exe
+C:\codigo\miprimerrepositorio\UAM.OOP.frames\obj\Debug\UAM.OOP.frames.pdb

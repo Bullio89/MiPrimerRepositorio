@@ -1,0 +1,7 @@
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\bin\Debug\UAM.OOP.tarea1.exe.config
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\bin\Debug\UAM.OOP.tarea1.exe
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\bin\Debug\UAM.OOP.tarea1.pdb
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\obj\Debug\UAM.OOP.tarea1.csprojAssemblyReference.cache
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\obj\Debug\UAM.OOP.tarea1.csproj.CoreCompileInputs.cache
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\obj\Debug\UAM.OOP.tarea1.exe
+C:\codigo\miprimerrepositorio\UAM.OOP.tarea1\obj\Debug\UAM.OOP.tarea1.pdb

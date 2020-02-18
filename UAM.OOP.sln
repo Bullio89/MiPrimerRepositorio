@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAM.OOP.tarea1", "UAM.OOP.t
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAM.OOP.frames", "UAM.OOP.frames\UAM.OOP.frames.csproj", "{4BC6E000-FEDF-4F47-9257-86CE2271567D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz.UAM.O0P", "Quiz.UAM.O0P\Quiz.UAM.O0P.csproj", "{1C0A374B-6D2D-4CF3-A1E8-5EFFEF2494C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4BC6E000-FEDF-4F47-9257-86CE2271567D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC6E000-FEDF-4F47-9257-86CE2271567D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC6E000-FEDF-4F47-9257-86CE2271567D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0A374B-6D2D-4CF3-A1E8-5EFFEF2494C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0A374B-6D2D-4CF3-A1E8-5EFFEF2494C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0A374B-6D2D-4CF3-A1E8-5EFFEF2494C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0A374B-6D2D-4CF3-A1E8-5EFFEF2494C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
