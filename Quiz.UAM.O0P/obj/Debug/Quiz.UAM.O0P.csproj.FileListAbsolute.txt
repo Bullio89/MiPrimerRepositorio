@@ -1,0 +1,9 @@
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\bin\Debug\Quiz.UAM.O0P.exe.config
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\bin\Debug\Quiz.UAM.O0P.exe
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\bin\Debug\Quiz.UAM.O0P.pdb
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\obj\Debug\Quiz.UAM.O0P.csprojAssemblyReference.cache
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\obj\Debug\Quiz.UAM.O0P.Presentacion.Form1.resources
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\obj\Debug\Quiz.UAM.O0P.csproj.GenerateResource.cache
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\obj\Debug\Quiz.UAM.O0P.csproj.CoreCompileInputs.cache
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\obj\Debug\Quiz.UAM.O0P.exe
+C:\codigo\miprimerrepositorio\Quiz.UAM.O0P\obj\Debug\Quiz.UAM.O0P.pdb

@@ -8,11 +8,12 @@ namespace Quiz.UAM.O0P
 {
     public abstract class Operaciones
     {
-        public abstract void Agregar();
-        
+        public void Agregar()
+        {
 
+        }
 
-
+       
 
     }
 }

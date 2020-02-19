@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Quiz.UAM.O0P",
+    "\\Quiz.UAM.O0P\\Entidades",
+    "\\Quiz.UAM.O0P\\LogicaNegocio"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Quiz.UAM.O0P\\LogicaNegocio\\Operaciones.cs",
+  "PreviewInSolutionExplorer": true
 }

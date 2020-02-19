@@ -6,10 +6,25 @@ using System.Threading.Tasks;
 
 namespace Quiz.UAM.O0P
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+
+            agregarCliente_Doctor cd = new agregarCliente_Doctor();
+            CrearCita cita = new CrearCita();
+            cd.quemarClientes();
+            cd.quemarDoctores();
+            cita.quemarHoras();
+            cita.agregarCita();
+            cita.eliminarCita(1);
+            Console.ReadKey();
+            
+
+
+
+
+
         }
     }
 }

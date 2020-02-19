@@ -16,22 +16,20 @@ namespace Quiz.UAM.O0P
 
         public Doctor(string especialidad)
         {
-            _especialidad = especialidad;
+            Especialidad = especialidad;
         }
 
         public Doctor(string especialidad,int id,string nombre,string apellido,int cedula)
             : base(id,nombre,apellido,cedula)
         {
-            _especialidad = especialidad;
+            Especialidad = especialidad;
         }
 
-
-
-
+        public string Especialidad { get => _especialidad; set => _especialidad = value; }
 
         public override string ToString()
         {
-            return "Id: " + Id + "\n" + "Nombre: " + Nombre + "\n" + "Especialidad: " + _especialidad;
+            return "Id: " + Id + "\n" + "Nombre: " + Nombre + "\n" + "Especialidad: " + Especialidad;
         }
     }
 }
