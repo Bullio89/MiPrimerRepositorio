@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quiz.UAM.O0P
 {
-    public class CrearCita:agregarCliente_Doctor
+    public class CrearCita
     {
         List<String> horas = new List<string>();
         public void quemarHoras()
@@ -55,8 +55,6 @@ namespace Quiz.UAM.O0P
 
         public void imprimir() {
 
-
-            Console.WriteLine();
 
 
 

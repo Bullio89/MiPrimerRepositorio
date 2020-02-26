@@ -1,0 +1,11 @@
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\BaseDatos.UAM.OOP.exe.config
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\BaseDatos.UAM.OOP.exe
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\BaseDatos.UAM.OOP.pdb
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\Entidades.exe
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\Entidades.pdb
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\Entidades.exe.config
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\AccDatBaseDatos.UAM.OOP.csprojAssemblyReference.cache
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\AccDatBaseDatos.UAM.OOP.csproj.CoreCompileInputs.cache
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\AccDatBaseDatos.UAM.OOP.csproj.CopyComplete
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\BaseDatos.UAM.OOP.exe
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\BaseDatos.UAM.OOP.pdb

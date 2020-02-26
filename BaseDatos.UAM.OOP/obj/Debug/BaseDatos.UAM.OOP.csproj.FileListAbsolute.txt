@@ -1,0 +1,7 @@
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\BaseDatos.UAM.OOP.exe.config
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\BaseDatos.UAM.OOP.exe
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\bin\Debug\BaseDatos.UAM.OOP.pdb
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\BaseDatos.UAM.OOP.csproj.CoreCompileInputs.cache
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\BaseDatos.UAM.OOP.exe
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\BaseDatos.UAM.OOP.pdb
+C:\codigo\miprimerrepositorio\BaseDatos.UAM.OOP\obj\Debug\BaseDatos.UAM.OOP.csprojAssemblyReference.cache

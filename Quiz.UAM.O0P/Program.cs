@@ -17,7 +17,10 @@ namespace Quiz.UAM.O0P
             cd.quemarDoctores();
             cita.quemarHoras();
             cita.agregarCita();
+            cita.agregarCita();
+            cita.agregarCita();
             cita.eliminarCita(1);
+            cita.imprimir();
             Console.ReadKey();
             
 
